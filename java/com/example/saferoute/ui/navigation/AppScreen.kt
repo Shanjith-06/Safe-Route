@@ -1,0 +1,22 @@
+package com.example.saferoute.ui.navigation
+
+enum class AppScreen {
+    SPLASH,
+    ONBOARDING,
+    PERMISSIONS,
+    LOGIN_GUEST,
+    HOME,
+    SAFE_NAVIGATION,
+    ROUTE_COMPARISON,
+    ACTIVE_NAVIGATION,
+    SOS,
+    TRUSTED_CONTACTS,
+    SAFE_HAVENS,
+    COMMUNITY_REPORTS,
+    SAFETY_SCORE_DETAIL,
+    EMERGENCY_EVIDENCE,
+    JOURNEY_HISTORY,
+    SETTINGS,
+    PRIVACY,
+    OFFLINE_STATUS
+}
